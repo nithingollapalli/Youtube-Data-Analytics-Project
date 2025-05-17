@@ -1,4 +1,4 @@
-# Data Engineering YouTube Analysis Project by Preetham
+# Data Analysis YouTube Project by Nithin
 
 ## Overview
 
